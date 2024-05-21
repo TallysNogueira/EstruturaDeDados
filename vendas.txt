@@ -1,0 +1,6 @@
+
+Código: 0
+Nome: v
+Quantidade de frutas vendidas: 6
+Valor da compra: 48.00
+
